@@ -5,7 +5,7 @@ A modern, responsive educational website designed for **Code99 IT Academy**, bui
 ---
 
 ## 🚀 Live Preview
-🔗 https://logashree03.github.io/code99-it-academy-website/
+🔗 https://logashree03.github.io/Code99-IT-Academy/
 
 ---
 
